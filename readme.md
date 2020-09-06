@@ -17,3 +17,5 @@
 решение: https://timonweb.com/javascript/how-to-fix-referenceerror-primordials-is-not-defined-error/)
 - "+" подключение с помощью
 elixir ```<link rel="stylesheet" href="{{ elixir('css/all.css') }}"> <script src="{{ elixir('js/app.js') }}"></script>```
+
+Дамп базы для демонстрации в папке sql
