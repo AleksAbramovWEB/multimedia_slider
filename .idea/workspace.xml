@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5b2b51-fa74-461b-bcf4-8b2983c7f663" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/js/app-a6e9d544cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/rev-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/rev-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +155,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -196,7 +203,8 @@
       <workItem from="1599279728482" duration="600000" />
       <workItem from="1599280517234" duration="39110000" />
       <workItem from="1599381839741" duration="14244000" />
-      <workItem from="1599396199744" duration="393000" />
+      <workItem from="1599396199744" duration="2518000" />
+      <workItem from="1599421672278" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1599396538830</created>
@@ -205,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599396538830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.0">
+      <created>1599396614858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599396614858</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,10 +247,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1297" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1599312223649" />
-    <state x="-1436" y="49" key="CommitChangelistDialog2" timestamp="1599396533328">
+    <state x="-1436" y="49" key="CommitChangelistDialog2" timestamp="1599396613991">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1436" y="49" key="CommitChangelistDialog2/0.0.1920.1032/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1599396533328" />
+    <state x="-1436" y="49" key="CommitChangelistDialog2/0.0.1920.1032/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1599396613991" />
     <state x="-1234" y="233" key="FileChooserDialogImpl" timestamp="1599396364621">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -276,10 +291,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1577" y="80" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1599236259235" />
-    <state x="-1469" y="205" key="Vcs.Push.Dialog.v2" timestamp="1599396545821">
+    <state x="-1469" y="205" key="Vcs.Push.Dialog.v2" timestamp="1599396624911">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1469" y="205" key="Vcs.Push.Dialog.v2/0.0.1920.1032/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1599396545821" />
+    <state x="-1469" y="205" key="Vcs.Push.Dialog.v2/0.0.1920.1032/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1599396624911" />
     <state x="-1086" y="385" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1599298492322">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>

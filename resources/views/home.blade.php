@@ -33,9 +33,9 @@
         </form>
     </div>
     <script>
-
+        const CSRF_TOKEN = '{{ csrf_token() }}';
+        const HREF_API = '{{ route('api_image')}}';
         let DataImages = {!! $images->toJson() !!} ;
-
 
     </script>
 @endsection

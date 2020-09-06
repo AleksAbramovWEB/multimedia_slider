@@ -13,4 +13,4 @@
 
     Route::get('/', "ImagineForSliderController@home");
     Route::post('/', "ImagineForSliderController@add_image")->name('add_image');
-    Route::post('/api', "ImagineForSliderController@image_api");
+    Route::post('/api', "ImagineForSliderController@image_api")->name('api_image');
